@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ailenbienestar.com.ar/sitemap.xml
