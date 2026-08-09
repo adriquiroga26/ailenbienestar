@@ -255,6 +255,7 @@ section{padding:88px 28px;}
 .modal p{color:var(--ink-soft); font-size:16px; margin:0 0 20px;}
 .modal ul{margin:0 0 20px; padding-left:20px; color:var(--ink-soft);}
 .modal ul li{margin-bottom:6px;}
+.modal-video{width:100%; border-radius:12px; margin:0 0 20px; display:block; background:#000;}
 .modal-close{
   position:absolute; top:14px; right:14px;
   width:34px; height:34px; border-radius:50%;
