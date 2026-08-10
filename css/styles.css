@@ -203,8 +203,8 @@ section{padding:88px 28px;}
 /* SERVICIOS */
 .services{position:relative; overflow:hidden;}
 .cards{
-  display:grid; grid-template-columns:repeat(4, 1fr);
-  gap:20px; max-width:1100px; margin:0 auto;
+  display:grid; grid-template-columns:repeat(3, 1fr);
+  gap:20px; max-width:880px; margin:0 auto;
   position:relative; z-index:1;
 }
 .card{
